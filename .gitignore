@@ -1,4 +1,11 @@
+#Ignore Schema
 md.xsd
 aiscripts.xsd
+
+#Generic Windows bs
 desktop.ini
+#Workshop Images
 preview.PNG
+
+#VsCode Workspaces
+*.code-workspace
