@@ -90,12 +90,12 @@
     <!-- Adding Unique Icons for  Khak & Xen Ships -->
     <add sel="/icons">
         <!-- Adding Xen Icons -->
-        <icon name="ship_xen_s_fight" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_s_fight.tga" height="128" width="128"></icon>
-        <icon name="ship_xen_m_fight" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_m_fight.tga" height="128" width="128"></icon>
-        <icon name="ship_xen_xl_carrier" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_xl_carrier.tga" height="128" width="128"></icon>
-        <icon name="ship_xen_xl_destroyer" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_xl_destroyer.tga" height="128" width="128"></icon>
+        <icon name="ship_xen_s_fight_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_s_fight_01.tga" height="128" width="128"></icon>
+        <icon name="ship_xen_m_fight_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_m_fight_01.tga" height="128" width="128"></icon>
+        <icon name="ship_xen_xl_carrier_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_xl_carrier_01.tga" height="128" width="128"></icon>
+        <icon name="ship_xen_xl_destroyer_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_xl_destroyer_01.tga" height="128" width="128"></icon>
         <!-- Adding Khak Icons -->
-        <icon name="ship_kha_s_fight" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_kha_s_fight.tga" height="128" width="128"></icon>
-        <icon name="ship_kha_m_fight" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_kha_m_fight.tga" height="128" width="128"></icon>
+        <icon name="ship_kha_s_fight_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_kha_s_fight_01.tga" height="128" width="128"></icon>
+        <icon name="ship_kha_m_fight_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_kha_m_fight_01.tga" height="128" width="128"></icon>
     </add>
 </diff>
