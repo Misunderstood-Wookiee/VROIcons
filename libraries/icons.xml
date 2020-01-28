@@ -67,7 +67,8 @@
     <replace sel="/icons/icon[@name='si_playerhq']">
         <icon name="si_playerhq" texture="extensions\VROIcons\assets\fx\gui\textures\stationicon\si_playerhq.tga" height="128" width="128"></icon>
     </replace>
-    <!-- Replace VROIcons Icons -->
+
+    <!-- Replacing VRO New Ship Icons -->
     <replace sel="/icons/icon[@name='ship_xl_battleship']">
         <icon name="ship_xl_battleship" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xl_battleship.tga" height="350" width="350"></icon>
     </replace>
@@ -87,7 +88,7 @@
         <icon name="ship_s_drone" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_s_drone.tga" height="150" width="150"></icon>
     </replace>
 
-    <!-- Adding Unique Icons for  Khak & Xen Ships -->
+    <!-- Adding Invidual Icons for  Khak & Xen Ships -->
     <add sel="/icons">
         <!-- Adding Xen Icons -->
         <icon name="ship_xen_s_fight_01" texture="extensions\VROIcons\assets\fx\gui\textures\shipicon\ship_xen_s_fight_01.tga" height="128" width="128"></icon>
