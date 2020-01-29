@@ -5,7 +5,7 @@
 
 ## Install
 **Just place it into your extensions folder like any other mod.**
->Note: You may need to re-name the mod directory to VROIcons but it should work fine regardless, and please make sure you already have VRO installed if not get it below.
+>Note please make sure you already have VRO installed if not get it below.
 ***
 ### Not Optional, Please Install
 [Variety and Rebalance Overhaul](https://github.com/Shuul/VRO) 
