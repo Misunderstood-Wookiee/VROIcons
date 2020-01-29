@@ -8,4 +8,4 @@
 >Note please make sure you already have VRO installed if not get it below.
 ***
 ### Not Optional, Please Install
-[Variety and Rebalance Overhaul](https://github.com/Shuul/VRO) 
+[Variety and Rebalance Overhaul](https://forum.egosoft.com/viewtopic.php?f=181&t=415713) 
