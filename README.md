@@ -1,4 +1,5 @@
 # X4 Variety and Rebalance Overhaul Icon Pack
+![alt text](https://i.imgur.com/UQMkPbv.png "Galaxy Map Icons: Oooo Fancy")
 #### About The Mod
 This is a patch which replaces ships and some stations with custom Rebirth Icons designed for VRO.
 #### Install
