@@ -1,10 +1,11 @@
 # X4 Variety and Rebalance Overhaul Icon Pack
-![alt text](https://i.imgur.com/UQMkPbv.png "Galaxy Map Icons: Oooo Fancy")
-#### About The Mod
+### About The Mod
 This is a patch which replaces ships and some stations with custom Rebirth Icons designed for VRO.
-#### Install
+![alt text](https://i.imgur.com/UQMkPbv.png "Galaxy Map Icons: Oooo Fancy")
+
+## Install
 Just place it into your extentsions folder like any other mod.
 >Note: You may need to re-name the mod directory to VROIcons but it should work fine regardless, and please make sure you already have VRO installed if not get it below.
 ***
-#### Not Optional, Please Install
+### Not Optional, Please Install
 [Variety and Rebalance Overhaul](https://github.com/Shuul/VRO) 
