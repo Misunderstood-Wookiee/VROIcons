@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<content id="z_vroicons" name="Variety and Rebalance Overhaul Icons Pack" description="Version 1.6.6\nReplaces Station and Ship Icons with Custom Rebirth Icons and More" author="Misunderstood Wookiee" version="166" date="" save="1" enabled="1" sync="false" lastupdate="">
+<content id="z_vroicons" name="Variety and Rebalance Overhaul Icons Pack" description="Version 1.6.7\nReplaces Station and Ship Icons with Custom Rebirth Icons and More" author="Misunderstood Wookiee" version="167" date="" save="1" enabled="1" sync="false" lastupdate="">
     <dependency id="ws_1696862840" optional="false" name="Variety and Rebalance Overhaul" />
 </content>
