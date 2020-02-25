@@ -4,8 +4,9 @@ aiscripts.xsd
 
 #Generic Windows bs
 desktop.ini
+*.bat
 #Workshop Images
-preview.PNG
+*.png
 
 #VsCode Workspaces
 *.code-workspace
