@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<content id="" name="VROIcons-Stable" description="Version 1.6.9\nReplaces Station and Ship Icons with Custom Rebirth Icons and More" author="Misunderstood Wookiee" version="169" date="" save="0" enabled="1" sync="true" lastupdate="">
-    <dependency id="ws_1696862840" optional="false" name="Variety and Rebalance Overhaul" />
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2007161261" name="VROIcons-Stable" description="Version 1.6.9\nReplaces Station and Ship Icons with Custom Rebirth Icons and More" author="Misunderstood Wookiee" version="169" date="2020-02-26" save="0" enabled="1" sync="false" lastupdate="1582647098">
+  <dependency id="ws_1696862840" optional="false" name="Variety and Rebalance Overhaul"/>
 </content>
