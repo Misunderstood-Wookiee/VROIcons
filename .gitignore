@@ -1,14 +1,21 @@
-#Ignore Schema
-md.xsd
-aiscripts.xsd
+#This Git-Ignore skips pushing various project files not needed for the repo.
 
-#Generic Windows bs
-desktop.ini
+#XSD Schema
+*.xsd
+
+#Windows Scripts
 *.bat
-#Workshop Prep
+
+#Linux Scripts
+*.sh
+
+#Workshop Build Files
 *.png
 *.cat
 *.dat
 
-#VsCode Workspaces
+#VScode Workspaces
 *.code-workspace
+
+#Misc/Other Annoyances
+desktop.ini
