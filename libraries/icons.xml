@@ -100,7 +100,7 @@
         <icon name="ship_m_bomber" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_bomber.tga" height="170" width="170"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_heavyfighter']">
-        <icon name="ship_s_heavyfighter" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_heavyfighter.tga" height="165" width="165"></icon>
+        <icon name="ship_s_heavyfighter" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_heavyfighter.tga" height="162" width="162"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_scout']">
         <icon name="ship_s_scout" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_scout.tga" height="160" width="160"></icon>
