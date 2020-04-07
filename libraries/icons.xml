@@ -1,76 +1,75 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<diff>
+?xml version="1.0" encoding="UTF-8" ?><diff>
     <!-- Replace Vanilla Icons -->
     <!-- Replacing Vanilla Fight Ships -->
     <replace sel="/icons/icon[@name='ship_xs_fight_01']">
-        <icon name="ship_xs_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_fight_01.tga" height="140" width="140"></icon>
+        <icon name="ship_xs_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_fight_01.tga" height="165" width="165"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_fight_01']">
-        <icon name="ship_s_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_fight_01.tga" height="160" width="160"></icon>
+        <icon name="ship_s_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_fight_01.tga" height="175" width="175"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_m_fight_01']">
-        <icon name="ship_m_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_fight_01.tga" height="180" width="180"></icon>
+        <icon name="ship_m_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_fight_01.tga" height="185" width="185"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_l_fight_01']">
-        <icon name="ship_l_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_fight_01.tga" height="190" width="190"></icon>
+        <icon name="ship_l_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_fight_01.tga" height="195" width="195"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_xl_fight_01']">
-        <icon name="ship_xl_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_fight_01.tga" height="200" width="200"></icon>
+        <icon name="ship_xl_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_fight_01.tga" height="205" width="205"></icon>
     </replace>
     <!-- Replacing Vanilla Trade Ships -->
     <replace sel="/icons/icon[@name='ship_xs_trade_01']">
-        <icon name="ship_xs_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_trade_01.tga" height="140" width="140"></icon>
+        <icon name="ship_xs_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_trade_01.tga" height="165" width="165"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_trade_01']">
-        <icon name="ship_s_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_trade_01.tga" height="160" width="160"></icon>
+        <icon name="ship_s_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_trade_01.tga" height="175" width="175"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_m_trade_01']">
-        <icon name="ship_m_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_trade_01.tga" height="180" width="180"></icon>
+        <icon name="ship_m_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_trade_01.tga" height="185" width="185"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_l_trade_01']">
-        <icon name="ship_l_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_trade_01.tga" height="190" width="190"></icon>
+        <icon name="ship_l_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_trade_01.tga" height="195" width="195"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_xl_trade_01']">
-        <icon name="ship_xl_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_trade_01.tga" height="200" width="200"></icon>
+        <icon name="ship_xl_trade_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_trade_01.tga" height="205" width="205"></icon>
     </replace>
     <!-- Replacing Vanilla Mine Ships -->
     <replace sel="/icons/icon[@name='ship_xs_mine_01']">
-        <icon name="ship_xs_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_mine_01.tga" height="140" width="140"></icon>
+        <icon name="ship_xs_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_mine_01.tga" height="165" width="165"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_mine_01']">
-        <icon name="ship_s_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_mine_01.tga" height="160" width="160"></icon>
+        <icon name="ship_s_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_mine_01.tga" height="175" width="175"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_m_mine_01']">
-        <icon name="ship_m_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_mine_01.tga" height="180" width="180"></icon>
+        <icon name="ship_m_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_mine_01.tga" height="185" width="185"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_l_mine_01']">
-        <icon name="ship_l_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_mine_01.tga" height="190" width="190"></icon>
+        <icon name="ship_l_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_mine_01.tga" height="195" width="195"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_xl_mine_01']">
-        <icon name="ship_xl_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_mine_01.tga" height="200" width="200"></icon>
+        <icon name="ship_xl_mine_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_mine_01.tga" height="205" width="205"></icon>
     </replace>
     <!-- Replacing Vanilla Neutral Ships -->
     <replace sel="/icons/icon[@name='ship_xs_neutral_01']">
-        <icon name="ship_xs_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_neutral_01.tga" height="140" width="140"></icon>
+        <icon name="ship_xs_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_neutral_01.tga" height="165" width="165"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_neutral_01']">
-        <icon name="ship_s_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_neutral_01.tga" height="160" width="160"></icon>
+        <icon name="ship_s_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_neutral_01.tga" height="175" width="175"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_m_neutral_01']">
-        <icon name="ship_m_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_neutral_01.tga" height="180" width="180"></icon>
+        <icon name="ship_m_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_neutral_01.tga" height="185" width="185"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_l_neutral_01']">
-        <icon name="ship_l_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_neutral_01.tga" height="190" width="190"></icon>
+        <icon name="ship_l_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_neutral_01.tga" height="195" width="195"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_xl_neutral_01']">
-        <icon name="ship_xl_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_neutral_01.tga" height="200" width="200"></icon>
+        <icon name="ship_xl_neutral_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_neutral_01.tga" height="205" width="205"></icon>
     </replace>
     <!-- Replacing Vanilla Build Ships -->
     <replace sel="/icons/icon[@name='ship_xs_build_01']">
-        <icon name="ship_xs_build_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_build_01.tga" height="140" width="140"></icon>
+        <icon name="ship_xs_build_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xs_build_01.tga" height="165" width="165"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_xl_build_01']">
-        <icon name="ship_xl_build_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_build_01.tga" height="190" width="190"></icon>
+        <icon name="ship_xl_build_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_build_01.tga" height="196" width="196"></icon>
     </replace>
     <!-- Replacing Vanilla Stations -->
     <replace sel="/icons/icon[@name='mapob_playerhq']">
@@ -88,25 +87,29 @@
     <replace sel="/icons/icon[@name='si_playerhq']">
         <icon name="si_playerhq" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\stationicon\si_playerhq.tga" height="128" width="128"></icon>
     </replace>
+    <!-- Replacing Misc Icons -->
+    <replace sel="/icons/icon[@name='ship_squadleader_01']">
+        <icon name="ship_squadleader_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_squadleader_01.tga" height="128" width="128"></icon>
+    </replace>
 
     <!-- Replacing VRO New Ship Icons -->
     <replace sel="/icons/icon[@name='ship_xl_battleship']">
-        <icon name="ship_xl_battleship" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_battleship.tga" height="200" width="200"></icon>
+        <icon name="ship_xl_battleship" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xl_battleship.tga" height="205" width="205"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_l_frigate']">
-        <icon name="ship_l_frigate" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_frigate.tga" height="190" width="190"></icon>
+        <icon name="ship_l_frigate" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_l_frigate.tga" height="195" width="195"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_m_bomber']">
-        <icon name="ship_m_bomber" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_bomber.tga" height="170" width="170"></icon>
+        <icon name="ship_m_bomber" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_m_bomber.tga" height="185" width="185"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_heavyfighter']">
-        <icon name="ship_s_heavyfighter" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_heavyfighter.tga" height="162" width="162"></icon>
+        <icon name="ship_s_heavyfighter" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_heavyfighter.tga" height="175" width="175"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_scout']">
-        <icon name="ship_s_scout" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_scout.tga" height="160" width="160"></icon>
+        <icon name="ship_s_scout" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_scout.tga" height="175" width="175"></icon>
     </replace>
     <replace sel="/icons/icon[@name='ship_s_drone']">
-        <icon name="ship_s_drone" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_drone.tga" height="140" width="140"></icon>
+        <icon name="ship_s_drone" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_s_drone.tga" height="165" width="165"></icon>
     </replace>
 
     <!-- Replacing Misc Icons -->
@@ -117,12 +120,12 @@
     <!-- Adding Invidual Icons for Khak & Xen Ships -->
     <add sel="/icons">
         <!-- Adding Xen Icons -->
-        <icon name="ship_xen_s_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_s_fight_01.tga" height="160" width="160"></icon>
-        <icon name="ship_xen_m_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_m_fight_01.tga" height="180" width="180"></icon>
-        <icon name="ship_xen_xl_carrier_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_xl_carrier_01.tga" height="200" width="200"></icon>
-        <icon name="ship_xen_xl_destroyer_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_xl_destroyer_01.tga" height="190" width="190"></icon>
+        <icon name="ship_xen_s_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_s_fight_01.tga" height="175" width="175"></icon>
+        <icon name="ship_xen_m_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_m_fight_01.tga" height="185" width="185"></icon>
+        <icon name="ship_xen_xl_carrier_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_xl_carrier_01.tga" height="205" width="205"></icon>
+        <icon name="ship_xen_xl_destroyer_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_xen_xl_destroyer_01.tga" height="195" width="195"></icon>
         <!-- Adding Khak Icons -->
-        <icon name="ship_kha_s_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_kha_s_fight_01.tga" height="160" width="160"></icon>
-        <icon name="ship_kha_m_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_kha_m_fight_01.tga" height="180" width="180"></icon>
+        <icon name="ship_kha_s_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_kha_s_fight_01.tga" height="175" width="175"></icon>
+        <icon name="ship_kha_m_fight_01" texture="extensions\VROIcons-Stable\assets\fx\gui\textures\shipicon\ship_kha_m_fight_01.tga" height="185" width="185"></icon>
     </add>
 </diff>
