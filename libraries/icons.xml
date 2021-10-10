@@ -105,6 +105,7 @@
         <!-- Adding Khak Icons -->
         <icon name="ship_kha_s_fight_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_kha_s_fight_01.tga" height="175" width="175"></icon>
         <icon name="ship_kha_m_fight_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_kha_m_fight_01.tga" height="185" width="185"></icon>
+        <icon name="ship_kha_l_destroyer_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_kha_l_destroyer_01.tga" height="195" width="195"></icon>
     </add>
 
     <!-- Replacing VRO Ship Icons -->
