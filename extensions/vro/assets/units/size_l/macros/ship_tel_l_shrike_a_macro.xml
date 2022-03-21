@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: nick (192.168.3.120) at 10.05.2019_17-06-29-->
+<diff>
+	<replace sel="//macros/macro/properties/identification/@icon">ship_xl_fight_01</replace>
+</diff>
