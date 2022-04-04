@@ -101,8 +101,9 @@
         <icon name="ship_xen_s_scout" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_xen_s_scout.tga" height="175" width="175"></icon>
         <icon name="ship_xen_m_fight_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_xen_m_fight_01.tga" height="185" width="185"></icon>
         <icon name="ship_xen_xl_carrier_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_xen_xl_carrier_01.tga" height="205" width="205"></icon>
+        <icon name="ship_xen_xl_u_carrier" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_xen_xl_u_carrier.tga" height="205" width="205"></icon>
         <icon name="ship_xen_xl_destroyer_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_xen_xl_destroyer_01.tga" height="195" width="195"></icon>
-        
+
         <!-- Adding Khak Icons -->
         <icon name="ship_kha_s_fight_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_kha_s_fight_01.tga" height="175" width="175"></icon>
         <icon name="ship_kha_m_fight_01" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_kha_m_fight_01.tga" height="185" width="185"></icon>
@@ -131,4 +132,5 @@
     <replace sel="/icons/icon[@name='ship_s_drone']">
         <icon name="ship_s_drone" texture="extensions\vroicons-stable\assets\fx\gui\textures\shipicon\ship_s_drone.tga" height="165" width="165"></icon>
     </replace>
+
 </diff>
