@@ -94,7 +94,7 @@
         <icon name="ship_squadleader_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_squadleader_01.tga" height="128" width="128"></icon>
     </replace>
 
-    <!-- Adding Unique Individual Icons for Khak & Xen Ships, Faction BattleShips -->
+    <!-- Adding Unique Individual Icons for Khak & Xen Ships and various ship classes -->
     <add sel="/icons">
         <!-- Adding Xen Icons -->
         <icon name="ship_xen_s_fight_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_xen_s_fight_01.tga" height="175" width="175"></icon>
@@ -108,6 +108,11 @@
         <icon name="ship_kha_s_fight_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_kha_s_fight_01.tga" height="175" width="175"></icon>
         <icon name="ship_kha_m_fight_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_kha_m_fight_01.tga" height="185" width="185"></icon>
         <icon name="ship_kha_l_destroyer_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_kha_l_destroyer_01.tga" height="195" width="195"></icon>
+
+        <!-- Adding various ship classes -->
+        <icon name="ship_l_cruiser_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_l_cruiser_01.tga" height="197" width="197"></icon>
+        <icon name="ship_l_battlecruiser_01" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_l_battlecruiser_01.tga" height="197" width="197"></icon>
+        <icon name="ship_l_battleship" texture="extensions\vroicons_stable\assets\fx\gui\textures\shipicon\ship_l_battleship.tga" height="197" width="199"></icon>
     </add>
 
     <!-- Replacing VRO Ship Icons ( remove sel= used to workaround multiple xpath resolves-->
